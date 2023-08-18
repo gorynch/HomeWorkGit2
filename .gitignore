@@ -1,0 +1,14 @@
+# ignore ALL _old files
+*_old
+
+# ignore ALL _backup files
+*_backup
+
+# ignore ALL files in ANY directory named temp
+tmp/ 
+
+# ingnore Thumbs.db
+Thumbs.db
+
+# ingnore .DS_Store
+.DS_Store
